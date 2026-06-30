@@ -18,7 +18,7 @@ import { Label } from '@/components/ui/label';
 import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
 
 const tile_matrix = 'WebMercatorQuad';
-const scale = 2;
+const scale = 1;
 const endpoint = "https://titiler.strayos.com"
 const data_dir='https://s3strayos.blob.core.windows.net/uploads/dev-anand';
 const tile_buffer = 3;
